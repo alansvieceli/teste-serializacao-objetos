@@ -1,0 +1,1 @@
+# teste-serializacao-objetos
